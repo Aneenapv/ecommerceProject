@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [SanityTestSuite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="SanityTest(failed)">
+    <parameter name="browser" value="chrome"/>
+    <parameter name="version" value="latest"/>
+    <parameter name="platform" value="Windows 10"/>
+    <classes>
+      <class name="sauceLabTest.SauceLabNaveenAutomation">
+        <methods>
+          <include name="closeBrowser"/>
+          <include name="setup"/>
+          <include name="validateLogin"/>
+        </methods>
+      </class> <!-- sauceLabTest.SauceLabNaveenAutomation -->
+    </classes>
+  </test> <!-- SanityTest(failed) -->
+</suite> <!-- Failed suite [SanityTestSuite] -->

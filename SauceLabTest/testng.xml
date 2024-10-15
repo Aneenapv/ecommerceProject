@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+    <test name="CrossBrowserTest">
+        <parameter name="browser" value="edge" />
+        <parameter name="platform" value="Windows 11" />
+        <parameter name="version" value="latest" />
+        <classes>
+            <class name="sauceLabTest.SauceLabNaveenAutomation" />
+        </classes>
+    </test>
+</suite>
