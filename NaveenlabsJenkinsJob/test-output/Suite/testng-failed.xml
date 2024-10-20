@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="com.naveenlabsJenkinsJob.Listeners.CustomListener"/>
+    <listener class-name="com.naveenlabsJenkinsJob.Listeners.TransformerForRetry"/>
+    <listener class-name="com.naveenlabsJenkinsJob.Listeners.ExtentReportListener"/>
+  </listeners>
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="com.naveenlabsJenkinsJob.PageTests.AccountLoginPageTest">
+        <methods>
+          <include name="setUpLogger"/>
+          <include name="setup"/>
+          <include name="closeBrowser"/>
+          <include name="LoginWithInvalidCredentials"/>
+        </methods>
+      </class> <!-- com.naveenlabsJenkinsJob.PageTests.AccountLoginPageTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

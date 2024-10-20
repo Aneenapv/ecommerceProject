@@ -1,0 +1,574 @@
+2024-10-20 07:09:21 INFO  TestBase:39 - <<<<<Navigating to an url>>>>>https://naveenautomationlabs.com/opencart/index.php?route=account/login
+2024-10-20 07:09:23 INFO  TestBase:45 - <<<<<Navigated an url>>>>>https://naveenautomationlabs.com/opencart/index.php?route=account/login
+2024-10-20 07:09:23 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.id: input-email
+2024-10-20 07:09:24 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.id: input-email
+2024-10-20 07:09:24 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.id: input-password
+2024-10-20 07:09:24 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.id: input-password
+2024-10-20 07:09:24 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.xpath: //input[@type='submit']
+2024-10-20 07:09:24 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.xpath: //input[@type='submit']
+2024-10-20 07:09:24 INFO  TestBase:99 - <<<<<before clicking an element>>>>>
+2024-10-20 07:09:25 INFO  TestBase:105 - <<<<<after clicking an element>>>>>
+2024-10-20 07:09:25 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.cssSelector: div.col-sm-9 h2:first-of-type
+2024-10-20 07:09:25 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.cssSelector: div.col-sm-9 h2:first-of-type
+2024-10-20 07:09:25 INFO  TestBase:165 - <<<<<before getting an text>>>>>[[ChromeDriver: chrome on windows (21783708cf3fdb076247f6038d8c8397)] -> css selector: div.col-sm-9 h2:first-of-type]
+2024-10-20 07:09:25 INFO  TestBase:171 - <<<<<after getting an text>>>>>[[ChromeDriver: chrome on windows (21783708cf3fdb076247f6038d8c8397)] -> css selector: div.col-sm-9 h2:first-of-type]
+2024-10-20 07:09:29 INFO  TestBase:39 - <<<<<Navigating to an url>>>>>https://naveenautomationlabs.com/opencart/index.php?route=account/login
+2024-10-20 07:09:31 INFO  TestBase:45 - <<<<<Navigated an url>>>>>https://naveenautomationlabs.com/opencart/index.php?route=account/login
+2024-10-20 07:09:31 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.id: input-email
+2024-10-20 07:09:31 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.id: input-email
+2024-10-20 07:09:32 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.id: input-password
+2024-10-20 07:09:32 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.id: input-password
+2024-10-20 07:09:32 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.xpath: //input[@type='submit']
+2024-10-20 07:09:32 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.xpath: //input[@type='submit']
+2024-10-20 07:09:32 INFO  TestBase:99 - <<<<<before clicking an element>>>>>
+2024-10-20 07:09:33 INFO  TestBase:105 - <<<<<after clicking an element>>>>>
+2024-10-20 07:09:35 INFO  TestBase:39 - <<<<<Navigating to an url>>>>>https://naveenautomationlabs.com/opencart/index.php?route=account/login
+2024-10-20 07:09:38 INFO  TestBase:45 - <<<<<Navigated an url>>>>>https://naveenautomationlabs.com/opencart/index.php?route=account/login
+2024-10-20 07:09:38 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.id: input-email
+2024-10-20 07:09:38 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.id: input-email
+2024-10-20 07:09:38 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.id: input-password
+2024-10-20 07:09:38 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.id: input-password
+2024-10-20 07:09:38 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.xpath: //input[@type='submit']
+2024-10-20 07:09:38 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.xpath: //input[@type='submit']
+2024-10-20 07:09:38 INFO  TestBase:99 - <<<<<before clicking an element>>>>>
+2024-10-20 07:09:39 INFO  TestBase:105 - <<<<<after clicking an element>>>>>
+2024-10-20 07:09:41 INFO  TestBase:39 - <<<<<Navigating to an url>>>>>https://naveenautomationlabs.com/opencart/index.php?route=account/login
+2024-10-20 07:09:43 INFO  TestBase:45 - <<<<<Navigated an url>>>>>https://naveenautomationlabs.com/opencart/index.php?route=account/login
+2024-10-20 07:09:43 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.id: input-email
+2024-10-20 07:09:43 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.id: input-email
+2024-10-20 07:09:43 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.id: input-password
+2024-10-20 07:09:44 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.id: input-password
+2024-10-20 07:09:44 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.xpath: //input[@type='submit']
+2024-10-20 07:09:44 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.xpath: //input[@type='submit']
+2024-10-20 07:09:44 INFO  TestBase:99 - <<<<<before clicking an element>>>>>
+2024-10-20 07:09:44 INFO  TestBase:105 - <<<<<after clicking an element>>>>>
+2024-10-20 07:23:10 INFO  TestBase:39 - <<<<<Navigating to an url>>>>>https://naveenautomationlabs.com/opencart/index.php?route=account/login
+2024-10-20 07:23:13 INFO  TestBase:45 - <<<<<Navigated an url>>>>>https://naveenautomationlabs.com/opencart/index.php?route=account/login
+2024-10-20 07:23:13 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.id: input-email
+2024-10-20 07:23:13 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.id: input-email
+2024-10-20 07:23:13 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.id: input-password
+2024-10-20 07:23:13 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.id: input-password
+2024-10-20 07:23:13 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.xpath: //input[@type='submit']
+2024-10-20 07:23:13 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.xpath: //input[@type='submit']
+2024-10-20 07:23:13 INFO  TestBase:99 - <<<<<before clicking an element>>>>>
+2024-10-20 07:23:14 INFO  TestBase:105 - <<<<<after clicking an element>>>>>
+2024-10-20 07:23:14 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.cssSelector: div.col-sm-9 h2:first-of-type
+2024-10-20 07:23:14 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.cssSelector: div.col-sm-9 h2:first-of-type
+2024-10-20 07:23:14 INFO  TestBase:165 - <<<<<before getting an text>>>>>[[ChromeDriver: chrome on windows (82d18b7c462531c25d9cd11dbfae55ea)] -> css selector: div.col-sm-9 h2:first-of-type]
+2024-10-20 07:23:14 INFO  TestBase:171 - <<<<<after getting an text>>>>>[[ChromeDriver: chrome on windows (82d18b7c462531c25d9cd11dbfae55ea)] -> css selector: div.col-sm-9 h2:first-of-type]
+2024-10-20 07:23:14 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.cssSelector: div.list-group a:nth-of-type(4)
+2024-10-20 07:23:14 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.cssSelector: div.list-group a:nth-of-type(4)
+2024-10-20 07:23:14 INFO  TestBase:99 - <<<<<before clicking an element>>>>>
+2024-10-20 07:23:15 INFO  TestBase:105 - <<<<<after clicking an element>>>>>
+2024-10-20 07:23:15 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.cssSelector: tbody tr:last-of-type td.text-right:nth-of-type(2) a:last-of-type
+2024-10-20 07:23:15 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.cssSelector: tbody tr:last-of-type td.text-right:nth-of-type(2) a:last-of-type
+2024-10-20 07:23:15 INFO  TestBase:99 - <<<<<before clicking an element>>>>>
+2024-10-20 07:23:15 INFO  TestBase:105 - <<<<<after clicking an element>>>>>
+2024-10-20 07:23:15 INFO  TestBase:15 - <<<<<Accepting an alert>>>>>
+2024-10-20 07:23:15 INFO  TestBase:21 - <<<<<Accepted an alert>>>>>
+2024-10-20 07:23:15 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.cssSelector: div.alert
+2024-10-20 07:23:16 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.cssSelector: div.alert
+2024-10-20 07:23:16 INFO  TestBase:165 - <<<<<before getting an text>>>>>[[ChromeDriver: chrome on windows (82d18b7c462531c25d9cd11dbfae55ea)] -> css selector: div.alert]
+2024-10-20 07:23:16 INFO  TestBase:171 - <<<<<after getting an text>>>>>[[ChromeDriver: chrome on windows (82d18b7c462531c25d9cd11dbfae55ea)] -> css selector: div.alert]
+2024-10-20 07:23:18 INFO  TestBase:39 - <<<<<Navigating to an url>>>>>https://naveenautomationlabs.com/opencart/index.php?route=account/login
+2024-10-20 07:23:20 INFO  TestBase:45 - <<<<<Navigated an url>>>>>https://naveenautomationlabs.com/opencart/index.php?route=account/login
+2024-10-20 07:23:20 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.id: input-email
+2024-10-20 07:23:20 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.id: input-email
+2024-10-20 07:23:21 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.id: input-password
+2024-10-20 07:23:21 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.id: input-password
+2024-10-20 07:23:21 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.xpath: //input[@type='submit']
+2024-10-20 07:23:21 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.xpath: //input[@type='submit']
+2024-10-20 07:23:21 INFO  TestBase:99 - <<<<<before clicking an element>>>>>
+2024-10-20 07:23:22 INFO  TestBase:105 - <<<<<after clicking an element>>>>>
+2024-10-20 07:23:22 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.cssSelector: div.col-sm-9 h2:first-of-type
+2024-10-20 07:23:22 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.cssSelector: div.col-sm-9 h2:first-of-type
+2024-10-20 07:23:22 INFO  TestBase:165 - <<<<<before getting an text>>>>>[[ChromeDriver: chrome on windows (bed353eec88be4b7085af8df004a098c)] -> css selector: div.col-sm-9 h2:first-of-type]
+2024-10-20 07:23:22 INFO  TestBase:171 - <<<<<after getting an text>>>>>[[ChromeDriver: chrome on windows (bed353eec88be4b7085af8df004a098c)] -> css selector: div.col-sm-9 h2:first-of-type]
+2024-10-20 07:23:22 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.cssSelector: div.list-group a:nth-of-type(4)
+2024-10-20 07:23:22 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.cssSelector: div.list-group a:nth-of-type(4)
+2024-10-20 07:23:22 INFO  TestBase:99 - <<<<<before clicking an element>>>>>
+2024-10-20 07:23:22 INFO  TestBase:105 - <<<<<after clicking an element>>>>>
+2024-10-20 07:23:22 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.cssSelector: #content div.pull-right a
+2024-10-20 07:23:22 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.cssSelector: #content div.pull-right a
+2024-10-20 07:23:22 INFO  TestBase:99 - <<<<<before clicking an element>>>>>
+2024-10-20 07:23:23 INFO  TestBase:105 - <<<<<after clicking an element>>>>>
+2024-10-20 07:23:23 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.id: input-firstname
+2024-10-20 07:23:23 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.id: input-firstname
+2024-10-20 07:23:23 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.id: input-lastname
+2024-10-20 07:23:23 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.id: input-lastname
+2024-10-20 07:23:24 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.id: input-company
+2024-10-20 07:23:24 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.id: input-company
+2024-10-20 07:23:24 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.id: input-address-1
+2024-10-20 07:23:24 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.id: input-address-1
+2024-10-20 07:23:24 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.id: input-city
+2024-10-20 07:23:24 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.id: input-city
+2024-10-20 07:23:24 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.id: input-postcode
+2024-10-20 07:23:24 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.id: input-postcode
+2024-10-20 07:23:24 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.id: input-country
+2024-10-20 07:23:24 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.id: input-country
+2024-10-20 07:23:24 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.id: input-country
+2024-10-20 07:23:24 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.id: input-country
+2024-10-20 07:23:24 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.id: input-country
+2024-10-20 07:23:24 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.id: input-country
+2024-10-20 07:23:24 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.id: input-country
+2024-10-20 07:23:24 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.id: input-country
+2024-10-20 07:23:24 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.xpath: .//option[normalize-space(.) = "American Samoa"]
+2024-10-20 07:23:24 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.xpath: .//option[normalize-space(.) = "American Samoa"]
+2024-10-20 07:23:24 INFO  TestBase:99 - <<<<<before clicking an element>>>>>
+2024-10-20 07:23:24 INFO  TestBase:105 - <<<<<after clicking an element>>>>>
+2024-10-20 07:23:24 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.id: input-zone
+2024-10-20 07:23:24 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.id: input-zone
+2024-10-20 07:23:24 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.id: input-zone
+2024-10-20 07:23:24 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.id: input-zone
+2024-10-20 07:23:24 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.id: input-zone
+2024-10-20 07:23:24 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.id: input-zone
+2024-10-20 07:23:24 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.id: input-zone
+2024-10-20 07:23:24 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.id: input-zone
+2024-10-20 07:23:24 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.xpath: .//option[normalize-space(.) = "Rose Island"]
+2024-10-20 07:23:25 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.xpath: .//option[normalize-space(.) = "Rose Island"]
+2024-10-20 07:23:25 INFO  TestBase:99 - <<<<<before clicking an element>>>>>
+2024-10-20 07:23:25 INFO  TestBase:105 - <<<<<after clicking an element>>>>>
+2024-10-20 07:23:25 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.xpath: //input[@value='Continue']
+2024-10-20 07:23:25 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.xpath: //input[@value='Continue']
+2024-10-20 07:23:25 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.cssSelector: div.alert
+2024-10-20 07:23:26 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.cssSelector: div.alert
+2024-10-20 07:23:26 INFO  TestBase:165 - <<<<<before getting an text>>>>>[[ChromeDriver: chrome on windows (bed353eec88be4b7085af8df004a098c)] -> css selector: div.alert]
+2024-10-20 07:23:26 INFO  TestBase:171 - <<<<<after getting an text>>>>>[[ChromeDriver: chrome on windows (bed353eec88be4b7085af8df004a098c)] -> css selector: div.alert]
+2024-10-20 07:23:27 INFO  TestBase:39 - <<<<<Navigating to an url>>>>>https://naveenautomationlabs.com/opencart/index.php?route=account/login
+2024-10-20 07:23:30 INFO  TestBase:45 - <<<<<Navigated an url>>>>>https://naveenautomationlabs.com/opencart/index.php?route=account/login
+2024-10-20 07:23:30 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.id: input-email
+2024-10-20 07:23:30 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.id: input-email
+2024-10-20 07:23:30 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.id: input-password
+2024-10-20 07:23:30 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.id: input-password
+2024-10-20 07:23:30 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.xpath: //input[@type='submit']
+2024-10-20 07:23:30 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.xpath: //input[@type='submit']
+2024-10-20 07:23:30 INFO  TestBase:99 - <<<<<before clicking an element>>>>>
+2024-10-20 07:23:31 INFO  TestBase:105 - <<<<<after clicking an element>>>>>
+2024-10-20 07:23:31 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.cssSelector: div.col-sm-9 h2:first-of-type
+2024-10-20 07:23:31 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.cssSelector: div.col-sm-9 h2:first-of-type
+2024-10-20 07:23:31 INFO  TestBase:165 - <<<<<before getting an text>>>>>[[ChromeDriver: chrome on windows (a8110da99ac2cf8e3320394b844e550b)] -> css selector: div.col-sm-9 h2:first-of-type]
+2024-10-20 07:23:31 INFO  TestBase:171 - <<<<<after getting an text>>>>>[[ChromeDriver: chrome on windows (a8110da99ac2cf8e3320394b844e550b)] -> css selector: div.col-sm-9 h2:first-of-type]
+2024-10-20 07:23:31 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.cssSelector: div.list-group a:nth-of-type(4)
+2024-10-20 07:23:31 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.cssSelector: div.list-group a:nth-of-type(4)
+2024-10-20 07:23:31 INFO  TestBase:99 - <<<<<before clicking an element>>>>>
+2024-10-20 07:23:32 INFO  TestBase:105 - <<<<<after clicking an element>>>>>
+2024-10-20 07:23:32 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.cssSelector: #content tbody tr td:nth-of-type(2) a:last-of-type
+2024-10-20 07:23:32 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.cssSelector: #content tbody tr td:nth-of-type(2) a:last-of-type
+2024-10-20 07:23:32 INFO  TestBase:99 - <<<<<before clicking an element>>>>>
+2024-10-20 07:23:32 INFO  TestBase:105 - <<<<<after clicking an element>>>>>
+2024-10-20 07:23:32 INFO  TestBase:15 - <<<<<Accepting an alert>>>>>
+2024-10-20 07:23:32 INFO  TestBase:21 - <<<<<Accepted an alert>>>>>
+2024-10-20 07:23:32 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.cssSelector: div.alert
+2024-10-20 07:23:32 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.cssSelector: div.alert
+2024-10-20 07:23:32 INFO  TestBase:165 - <<<<<before getting an text>>>>>[[ChromeDriver: chrome on windows (a8110da99ac2cf8e3320394b844e550b)] -> css selector: div.alert]
+2024-10-20 07:23:32 INFO  TestBase:171 - <<<<<after getting an text>>>>>[[ChromeDriver: chrome on windows (a8110da99ac2cf8e3320394b844e550b)] -> css selector: div.alert]
+2024-10-20 07:23:34 INFO  TestBase:39 - <<<<<Navigating to an url>>>>>https://naveenautomationlabs.com/opencart/index.php?route=account/login
+2024-10-20 07:23:36 INFO  TestBase:45 - <<<<<Navigated an url>>>>>https://naveenautomationlabs.com/opencart/index.php?route=account/login
+2024-10-20 07:23:36 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.id: input-email
+2024-10-20 07:23:36 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.id: input-email
+2024-10-20 07:23:37 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.id: input-password
+2024-10-20 07:23:37 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.id: input-password
+2024-10-20 07:23:37 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.xpath: //input[@type='submit']
+2024-10-20 07:23:37 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.xpath: //input[@type='submit']
+2024-10-20 07:23:37 INFO  TestBase:99 - <<<<<before clicking an element>>>>>
+2024-10-20 07:23:38 INFO  TestBase:105 - <<<<<after clicking an element>>>>>
+2024-10-20 07:23:38 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.cssSelector: div.col-sm-9 h2:first-of-type
+2024-10-20 07:23:38 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.cssSelector: div.col-sm-9 h2:first-of-type
+2024-10-20 07:23:38 INFO  TestBase:165 - <<<<<before getting an text>>>>>[[ChromeDriver: chrome on windows (7aa064d16a30c974a790480d4fb35b8c)] -> css selector: div.col-sm-9 h2:first-of-type]
+2024-10-20 07:23:38 INFO  TestBase:171 - <<<<<after getting an text>>>>>[[ChromeDriver: chrome on windows (7aa064d16a30c974a790480d4fb35b8c)] -> css selector: div.col-sm-9 h2:first-of-type]
+2024-10-20 07:23:38 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.cssSelector: div.list-group a:nth-of-type(4)
+2024-10-20 07:23:38 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.cssSelector: div.list-group a:nth-of-type(4)
+2024-10-20 07:23:38 INFO  TestBase:99 - <<<<<before clicking an element>>>>>
+2024-10-20 07:23:38 INFO  TestBase:105 - <<<<<after clicking an element>>>>>
+2024-10-20 07:23:38 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.cssSelector: tbody tr:last-of-type td.text-right:nth-of-type(2) a:first-of-type
+2024-10-20 07:23:38 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.cssSelector: tbody tr:last-of-type td.text-right:nth-of-type(2) a:first-of-type
+2024-10-20 07:23:38 INFO  TestBase:99 - <<<<<before clicking an element>>>>>
+2024-10-20 07:23:39 INFO  TestBase:105 - <<<<<after clicking an element>>>>>
+2024-10-20 07:23:39 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.id: input-firstname
+2024-10-20 07:23:39 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.id: input-firstname
+2024-10-20 07:23:39 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.id: input-firstname
+2024-10-20 07:23:39 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.id: input-firstname
+2024-10-20 07:23:40 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.id: input-country
+2024-10-20 07:23:40 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.id: input-country
+2024-10-20 07:23:40 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.id: input-country
+2024-10-20 07:23:40 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.id: input-country
+2024-10-20 07:23:40 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.id: input-country
+2024-10-20 07:23:40 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.id: input-country
+2024-10-20 07:23:40 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.id: input-country
+2024-10-20 07:23:40 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.id: input-country
+2024-10-20 07:23:40 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.xpath: .//option[normalize-space(.) = "American Samoa"]
+2024-10-20 07:23:40 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.xpath: .//option[normalize-space(.) = "American Samoa"]
+2024-10-20 07:23:40 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.id: input-zone
+2024-10-20 07:23:40 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.id: input-zone
+2024-10-20 07:23:40 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.id: input-zone
+2024-10-20 07:23:40 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.id: input-zone
+2024-10-20 07:23:40 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.id: input-zone
+2024-10-20 07:23:40 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.id: input-zone
+2024-10-20 07:23:40 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.id: input-zone
+2024-10-20 07:23:40 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.id: input-zone
+2024-10-20 07:23:40 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.xpath: .//option[normalize-space(.) = "Rose Island"]
+2024-10-20 07:23:40 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.xpath: .//option[normalize-space(.) = "Rose Island"]
+2024-10-20 07:23:40 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.xpath: //input[@value='Continue']
+2024-10-20 07:23:40 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.xpath: //input[@value='Continue']
+2024-10-20 07:23:41 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.cssSelector: div.alert
+2024-10-20 07:23:41 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.cssSelector: div.alert
+2024-10-20 07:23:41 INFO  TestBase:165 - <<<<<before getting an text>>>>>[[ChromeDriver: chrome on windows (7aa064d16a30c974a790480d4fb35b8c)] -> css selector: div.alert]
+2024-10-20 07:23:41 INFO  TestBase:171 - <<<<<after getting an text>>>>>[[ChromeDriver: chrome on windows (7aa064d16a30c974a790480d4fb35b8c)] -> css selector: div.alert]
+2024-10-20 07:25:07 INFO  TestBase:39 - <<<<<Navigating to an url>>>>>https://naveenautomationlabs.com/opencart/index.php?route=account/login
+2024-10-20 07:25:09 INFO  TestBase:45 - <<<<<Navigated an url>>>>>https://naveenautomationlabs.com/opencart/index.php?route=account/login
+2024-10-20 07:25:09 INFO  TestBase:14 - Test started: ForgotPasswordFunctionality
+2024-10-20 07:25:09 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.cssSelector: div.form-group a
+2024-10-20 07:25:09 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.cssSelector: div.form-group a
+2024-10-20 07:25:09 INFO  TestBase:99 - <<<<<before clicking an element>>>>>
+2024-10-20 07:25:10 INFO  TestBase:105 - <<<<<after clicking an element>>>>>
+2024-10-20 07:25:10 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.id: input-email
+2024-10-20 07:25:10 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.id: input-email
+2024-10-20 07:25:10 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.xpath: //input[@value='Continue']
+2024-10-20 07:25:10 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.xpath: //input[@value='Continue']
+2024-10-20 07:25:10 INFO  TestBase:99 - <<<<<before clicking an element>>>>>
+2024-10-20 07:25:11 INFO  TestBase:105 - <<<<<after clicking an element>>>>>
+2024-10-20 07:25:11 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.cssSelector: div.alert
+2024-10-20 07:25:11 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.cssSelector: div.alert
+2024-10-20 07:25:11 INFO  TestBase:165 - <<<<<before getting an text>>>>>[[ChromeDriver: chrome on windows (33170630b29ef54c3c8630ea83cb54fc)] -> css selector: div.alert]
+2024-10-20 07:25:11 INFO  TestBase:171 - <<<<<after getting an text>>>>>[[ChromeDriver: chrome on windows (33170630b29ef54c3c8630ea83cb54fc)] -> css selector: div.alert]
+2024-10-20 07:25:11 INFO  TestBase:19 - Test success: ForgotPasswordFunctionality
+2024-10-20 07:25:13 INFO  TestBase:39 - <<<<<Navigating to an url>>>>>https://naveenautomationlabs.com/opencart/index.php?route=account/login
+2024-10-20 07:25:16 INFO  TestBase:45 - <<<<<Navigated an url>>>>>https://naveenautomationlabs.com/opencart/index.php?route=account/login
+2024-10-20 07:25:16 INFO  TestBase:14 - Test started: LoginWithInvalidCredentials
+2024-10-20 07:25:16 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.id: input-email
+2024-10-20 07:25:16 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.id: input-email
+2024-10-20 07:25:16 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.id: input-password
+2024-10-20 07:25:16 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.id: input-password
+2024-10-20 07:25:16 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.xpath: //input[@type='submit']
+2024-10-20 07:25:16 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.xpath: //input[@type='submit']
+2024-10-20 07:25:16 INFO  TestBase:99 - <<<<<before clicking an element>>>>>
+2024-10-20 07:25:17 INFO  TestBase:105 - <<<<<after clicking an element>>>>>
+2024-10-20 07:25:17 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.cssSelector: #account-login div.alert
+2024-10-20 07:25:17 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.cssSelector: #account-login div.alert
+2024-10-20 07:25:17 INFO  TestBase:165 - <<<<<before getting an text>>>>>[[ChromeDriver: chrome on windows (a7c4f8959e351273f427384cee9f3415)] -> css selector: #account-login div.alert]
+2024-10-20 07:25:17 INFO  TestBase:171 - <<<<<after getting an text>>>>>[[ChromeDriver: chrome on windows (a7c4f8959e351273f427384cee9f3415)] -> css selector: #account-login div.alert]
+2024-10-20 07:25:17 INFO  TestBase:20 - Running the failed test: LoginWithInvalidCredentials
+2024-10-20 07:25:17 INFO  TestBase:31 - Test skipped: LoginWithInvalidCredentials
+2024-10-20 07:25:18 INFO  TestBase:39 - <<<<<Navigating to an url>>>>>https://naveenautomationlabs.com/opencart/index.php?route=account/login
+2024-10-20 07:25:21 INFO  TestBase:45 - <<<<<Navigated an url>>>>>https://naveenautomationlabs.com/opencart/index.php?route=account/login
+2024-10-20 07:25:21 INFO  TestBase:14 - Test started: LoginWithInvalidCredentials
+2024-10-20 07:25:21 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.id: input-email
+2024-10-20 07:25:21 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.id: input-email
+2024-10-20 07:25:21 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.id: input-password
+2024-10-20 07:25:21 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.id: input-password
+2024-10-20 07:25:21 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.xpath: //input[@type='submit']
+2024-10-20 07:25:21 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.xpath: //input[@type='submit']
+2024-10-20 07:25:21 INFO  TestBase:99 - <<<<<before clicking an element>>>>>
+2024-10-20 07:25:22 INFO  TestBase:105 - <<<<<after clicking an element>>>>>
+2024-10-20 07:25:22 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.cssSelector: #account-login div.alert
+2024-10-20 07:25:22 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.cssSelector: #account-login div.alert
+2024-10-20 07:25:22 INFO  TestBase:165 - <<<<<before getting an text>>>>>[[ChromeDriver: chrome on windows (0aa9e891a6c9e45cd30234b46146ba54)] -> css selector: #account-login div.alert]
+2024-10-20 07:25:22 INFO  TestBase:171 - <<<<<after getting an text>>>>>[[ChromeDriver: chrome on windows (0aa9e891a6c9e45cd30234b46146ba54)] -> css selector: #account-login div.alert]
+2024-10-20 07:25:22 INFO  TestBase:24 - Test failed: LoginWithInvalidCredentials
+2024-10-20 07:25:22 INFO  TestBase:25 - Test Failed, taking screenshot!!!!
+2024-10-20 07:25:23 INFO  TestBase:39 - <<<<<Navigating to an url>>>>>https://naveenautomationlabs.com/opencart/index.php?route=account/login
+2024-10-20 07:25:26 INFO  TestBase:45 - <<<<<Navigated an url>>>>>https://naveenautomationlabs.com/opencart/index.php?route=account/login
+2024-10-20 07:25:26 INFO  TestBase:14 - Test started: LoginWithInvalidEmailAndValidPassword
+2024-10-20 07:25:26 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.id: input-email
+2024-10-20 07:25:26 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.id: input-email
+2024-10-20 07:25:26 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.id: input-password
+2024-10-20 07:25:26 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.id: input-password
+2024-10-20 07:25:26 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.xpath: //input[@type='submit']
+2024-10-20 07:25:26 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.xpath: //input[@type='submit']
+2024-10-20 07:25:26 INFO  TestBase:99 - <<<<<before clicking an element>>>>>
+2024-10-20 07:25:27 INFO  TestBase:105 - <<<<<after clicking an element>>>>>
+2024-10-20 07:25:27 INFO  TestBase:19 - Test success: LoginWithInvalidEmailAndValidPassword
+2024-10-20 07:25:28 INFO  TestBase:39 - <<<<<Navigating to an url>>>>>https://naveenautomationlabs.com/opencart/index.php?route=account/login
+2024-10-20 07:25:31 INFO  TestBase:45 - <<<<<Navigated an url>>>>>https://naveenautomationlabs.com/opencart/index.php?route=account/login
+2024-10-20 07:25:31 INFO  TestBase:14 - Test started: LoginWithValidCredentials
+2024-10-20 07:25:31 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.id: input-email
+2024-10-20 07:25:31 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.id: input-email
+2024-10-20 07:25:31 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.id: input-password
+2024-10-20 07:25:31 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.id: input-password
+2024-10-20 07:25:31 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.xpath: //input[@type='submit']
+2024-10-20 07:25:31 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.xpath: //input[@type='submit']
+2024-10-20 07:25:31 INFO  TestBase:99 - <<<<<before clicking an element>>>>>
+2024-10-20 07:25:32 INFO  TestBase:105 - <<<<<after clicking an element>>>>>
+2024-10-20 07:25:32 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.cssSelector: div.col-sm-9 h2:first-of-type
+2024-10-20 07:25:32 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.cssSelector: div.col-sm-9 h2:first-of-type
+2024-10-20 07:25:32 INFO  TestBase:165 - <<<<<before getting an text>>>>>[[ChromeDriver: chrome on windows (51f84aad0865ce18af16908b7719613a)] -> css selector: div.col-sm-9 h2:first-of-type]
+2024-10-20 07:25:32 INFO  TestBase:171 - <<<<<after getting an text>>>>>[[ChromeDriver: chrome on windows (51f84aad0865ce18af16908b7719613a)] -> css selector: div.col-sm-9 h2:first-of-type]
+2024-10-20 07:25:32 INFO  TestBase:19 - Test success: LoginWithValidCredentials
+2024-10-20 07:25:35 INFO  TestBase:39 - <<<<<Navigating to an url>>>>>https://naveenautomationlabs.com/opencart/index.php?route=account/login
+2024-10-20 07:25:38 INFO  TestBase:45 - <<<<<Navigated an url>>>>>https://naveenautomationlabs.com/opencart/index.php?route=account/login
+2024-10-20 07:25:38 INFO  TestBase:14 - Test started: LoginWithValidCredentials
+2024-10-20 07:25:38 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.id: input-email
+2024-10-20 07:25:38 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.id: input-email
+2024-10-20 07:25:38 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.id: input-password
+2024-10-20 07:25:38 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.id: input-password
+2024-10-20 07:25:38 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.xpath: //input[@type='submit']
+2024-10-20 07:25:38 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.xpath: //input[@type='submit']
+2024-10-20 07:25:38 INFO  TestBase:99 - <<<<<before clicking an element>>>>>
+2024-10-20 07:25:39 INFO  TestBase:105 - <<<<<after clicking an element>>>>>
+2024-10-20 07:25:39 INFO  TestBase:19 - Test success: LoginWithValidCredentials
+2024-10-20 07:25:41 INFO  TestBase:39 - <<<<<Navigating to an url>>>>>https://naveenautomationlabs.com/opencart/index.php?route=account/login
+2024-10-20 07:25:43 INFO  TestBase:45 - <<<<<Navigated an url>>>>>https://naveenautomationlabs.com/opencart/index.php?route=account/login
+2024-10-20 07:25:43 INFO  TestBase:14 - Test started: LoginWithValidCredentials
+2024-10-20 07:25:43 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.id: input-email
+2024-10-20 07:25:43 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.id: input-email
+2024-10-20 07:25:43 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.id: input-password
+2024-10-20 07:25:43 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.id: input-password
+2024-10-20 07:25:43 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.xpath: //input[@type='submit']
+2024-10-20 07:25:43 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.xpath: //input[@type='submit']
+2024-10-20 07:25:43 INFO  TestBase:99 - <<<<<before clicking an element>>>>>
+2024-10-20 07:25:44 INFO  TestBase:105 - <<<<<after clicking an element>>>>>
+2024-10-20 07:25:44 INFO  TestBase:19 - Test success: LoginWithValidCredentials
+2024-10-20 07:25:45 INFO  TestBase:39 - <<<<<Navigating to an url>>>>>https://naveenautomationlabs.com/opencart/index.php?route=account/login
+2024-10-20 07:25:48 INFO  TestBase:45 - <<<<<Navigated an url>>>>>https://naveenautomationlabs.com/opencart/index.php?route=account/login
+2024-10-20 07:25:48 INFO  TestBase:14 - Test started: LoginWithValidCredentials
+2024-10-20 07:25:48 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.id: input-email
+2024-10-20 07:25:48 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.id: input-email
+2024-10-20 07:25:48 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.id: input-password
+2024-10-20 07:25:48 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.id: input-password
+2024-10-20 07:25:48 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.xpath: //input[@type='submit']
+2024-10-20 07:25:48 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.xpath: //input[@type='submit']
+2024-10-20 07:25:48 INFO  TestBase:99 - <<<<<before clicking an element>>>>>
+2024-10-20 07:25:49 INFO  TestBase:105 - <<<<<after clicking an element>>>>>
+2024-10-20 07:25:49 INFO  TestBase:19 - Test success: LoginWithValidCredentials
+2024-10-20 07:25:50 INFO  TestBase:39 - <<<<<Navigating to an url>>>>>https://naveenautomationlabs.com/opencart/index.php?route=account/login
+2024-10-20 07:25:52 INFO  TestBase:45 - <<<<<Navigated an url>>>>>https://naveenautomationlabs.com/opencart/index.php?route=account/login
+2024-10-20 07:25:52 INFO  TestBase:14 - Test started: LoginWithValidEmailAndInvalidPassword
+2024-10-20 07:25:52 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.id: input-email
+2024-10-20 07:25:52 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.id: input-email
+2024-10-20 07:25:52 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.id: input-password
+2024-10-20 07:25:52 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.id: input-password
+2024-10-20 07:25:52 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.xpath: //input[@type='submit']
+2024-10-20 07:25:53 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.xpath: //input[@type='submit']
+2024-10-20 07:25:53 INFO  TestBase:99 - <<<<<before clicking an element>>>>>
+2024-10-20 07:25:53 INFO  TestBase:105 - <<<<<after clicking an element>>>>>
+2024-10-20 07:25:53 INFO  TestBase:19 - Test success: LoginWithValidEmailAndInvalidPassword
+2024-10-20 07:25:54 INFO  TestBase:39 - <<<<<Navigating to an url>>>>>https://naveenautomationlabs.com/opencart/index.php?route=account/login
+2024-10-20 07:25:57 INFO  TestBase:45 - <<<<<Navigated an url>>>>>https://naveenautomationlabs.com/opencart/index.php?route=account/login
+2024-10-20 07:25:57 INFO  TestBase:14 - Test started: ForgotPasswordFunctionalityWithInvalidEmail
+2024-10-20 07:25:57 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.cssSelector: div.form-group a
+2024-10-20 07:25:57 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.cssSelector: div.form-group a
+2024-10-20 07:25:57 INFO  TestBase:99 - <<<<<before clicking an element>>>>>
+2024-10-20 07:25:57 INFO  TestBase:105 - <<<<<after clicking an element>>>>>
+2024-10-20 07:25:57 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.id: input-email
+2024-10-20 07:25:57 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.id: input-email
+2024-10-20 07:25:57 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.xpath: //input[@value='Continue']
+2024-10-20 07:25:57 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.xpath: //input[@value='Continue']
+2024-10-20 07:25:57 INFO  TestBase:99 - <<<<<before clicking an element>>>>>
+2024-10-20 07:25:58 INFO  TestBase:105 - <<<<<after clicking an element>>>>>
+2024-10-20 07:25:58 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.cssSelector: div.alert
+2024-10-20 07:25:58 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.cssSelector: div.alert
+2024-10-20 07:25:58 INFO  TestBase:165 - <<<<<before getting an text>>>>>[[ChromeDriver: chrome on windows (22f36dad23a0492076367bff2c225e0c)] -> css selector: div.alert]
+2024-10-20 07:25:58 INFO  TestBase:171 - <<<<<after getting an text>>>>>[[ChromeDriver: chrome on windows (22f36dad23a0492076367bff2c225e0c)] -> css selector: div.alert]
+2024-10-20 07:25:58 INFO  TestBase:19 - Test success: ForgotPasswordFunctionalityWithInvalidEmail
+2024-10-20 07:26:00 INFO  TestBase:39 - <<<<<Navigating to an url>>>>>https://naveenautomationlabs.com/opencart/index.php?route=account/login
+2024-10-20 07:26:02 INFO  TestBase:45 - <<<<<Navigated an url>>>>>https://naveenautomationlabs.com/opencart/index.php?route=account/login
+2024-10-20 07:26:02 INFO  TestBase:14 - Test started: ValidateAddedAddressBookDelete
+2024-10-20 07:26:02 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.id: input-email
+2024-10-20 07:26:02 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.id: input-email
+2024-10-20 07:26:02 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.id: input-password
+2024-10-20 07:26:02 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.id: input-password
+2024-10-20 07:26:02 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.xpath: //input[@type='submit']
+2024-10-20 07:26:02 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.xpath: //input[@type='submit']
+2024-10-20 07:26:02 INFO  TestBase:99 - <<<<<before clicking an element>>>>>
+2024-10-20 07:26:03 INFO  TestBase:105 - <<<<<after clicking an element>>>>>
+2024-10-20 07:26:03 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.cssSelector: div.col-sm-9 h2:first-of-type
+2024-10-20 07:26:04 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.cssSelector: div.col-sm-9 h2:first-of-type
+2024-10-20 07:26:04 INFO  TestBase:165 - <<<<<before getting an text>>>>>[[ChromeDriver: chrome on windows (191a4cf6310dc5fc90e4f8d7f096ae0c)] -> css selector: div.col-sm-9 h2:first-of-type]
+2024-10-20 07:26:04 INFO  TestBase:171 - <<<<<after getting an text>>>>>[[ChromeDriver: chrome on windows (191a4cf6310dc5fc90e4f8d7f096ae0c)] -> css selector: div.col-sm-9 h2:first-of-type]
+2024-10-20 07:26:04 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.cssSelector: div.list-group a:nth-of-type(4)
+2024-10-20 07:26:04 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.cssSelector: div.list-group a:nth-of-type(4)
+2024-10-20 07:26:04 INFO  TestBase:99 - <<<<<before clicking an element>>>>>
+2024-10-20 07:26:04 INFO  TestBase:105 - <<<<<after clicking an element>>>>>
+2024-10-20 07:26:04 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.cssSelector: tbody tr:last-of-type td.text-right:nth-of-type(2) a:last-of-type
+2024-10-20 07:26:04 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.cssSelector: tbody tr:last-of-type td.text-right:nth-of-type(2) a:last-of-type
+2024-10-20 07:26:04 INFO  TestBase:99 - <<<<<before clicking an element>>>>>
+2024-10-20 07:26:04 INFO  TestBase:105 - <<<<<after clicking an element>>>>>
+2024-10-20 07:26:04 INFO  TestBase:15 - <<<<<Accepting an alert>>>>>
+2024-10-20 07:26:04 INFO  TestBase:21 - <<<<<Accepted an alert>>>>>
+2024-10-20 07:26:04 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.cssSelector: div.alert
+2024-10-20 07:26:05 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.cssSelector: div.alert
+2024-10-20 07:26:05 INFO  TestBase:165 - <<<<<before getting an text>>>>>[[ChromeDriver: chrome on windows (191a4cf6310dc5fc90e4f8d7f096ae0c)] -> css selector: div.alert]
+2024-10-20 07:26:05 INFO  TestBase:171 - <<<<<after getting an text>>>>>[[ChromeDriver: chrome on windows (191a4cf6310dc5fc90e4f8d7f096ae0c)] -> css selector: div.alert]
+2024-10-20 07:26:05 INFO  TestBase:19 - Test success: ValidateAddedAddressBookDelete
+2024-10-20 07:26:07 INFO  TestBase:39 - <<<<<Navigating to an url>>>>>https://naveenautomationlabs.com/opencart/index.php?route=account/login
+2024-10-20 07:26:09 INFO  TestBase:45 - <<<<<Navigated an url>>>>>https://naveenautomationlabs.com/opencart/index.php?route=account/login
+2024-10-20 07:26:09 INFO  TestBase:14 - Test started: ValidateAddressBookNewAddress
+2024-10-20 07:26:09 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.id: input-email
+2024-10-20 07:26:09 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.id: input-email
+2024-10-20 07:26:09 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.id: input-password
+2024-10-20 07:26:09 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.id: input-password
+2024-10-20 07:26:09 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.xpath: //input[@type='submit']
+2024-10-20 07:26:09 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.xpath: //input[@type='submit']
+2024-10-20 07:26:09 INFO  TestBase:99 - <<<<<before clicking an element>>>>>
+2024-10-20 07:26:10 INFO  TestBase:105 - <<<<<after clicking an element>>>>>
+2024-10-20 07:26:10 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.cssSelector: div.col-sm-9 h2:first-of-type
+2024-10-20 07:26:10 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.cssSelector: div.col-sm-9 h2:first-of-type
+2024-10-20 07:26:10 INFO  TestBase:165 - <<<<<before getting an text>>>>>[[ChromeDriver: chrome on windows (8a9a2d469e22a03931ca11cc4e5e2ead)] -> css selector: div.col-sm-9 h2:first-of-type]
+2024-10-20 07:26:10 INFO  TestBase:171 - <<<<<after getting an text>>>>>[[ChromeDriver: chrome on windows (8a9a2d469e22a03931ca11cc4e5e2ead)] -> css selector: div.col-sm-9 h2:first-of-type]
+2024-10-20 07:26:10 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.cssSelector: div.list-group a:nth-of-type(4)
+2024-10-20 07:26:11 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.cssSelector: div.list-group a:nth-of-type(4)
+2024-10-20 07:26:11 INFO  TestBase:99 - <<<<<before clicking an element>>>>>
+2024-10-20 07:26:11 INFO  TestBase:105 - <<<<<after clicking an element>>>>>
+2024-10-20 07:26:11 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.cssSelector: #content div.pull-right a
+2024-10-20 07:26:11 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.cssSelector: #content div.pull-right a
+2024-10-20 07:26:11 INFO  TestBase:99 - <<<<<before clicking an element>>>>>
+2024-10-20 07:26:12 INFO  TestBase:105 - <<<<<after clicking an element>>>>>
+2024-10-20 07:26:12 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.id: input-firstname
+2024-10-20 07:26:12 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.id: input-firstname
+2024-10-20 07:26:12 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.id: input-lastname
+2024-10-20 07:26:12 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.id: input-lastname
+2024-10-20 07:26:12 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.id: input-company
+2024-10-20 07:26:12 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.id: input-company
+2024-10-20 07:26:12 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.id: input-address-1
+2024-10-20 07:26:12 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.id: input-address-1
+2024-10-20 07:26:13 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.id: input-city
+2024-10-20 07:26:13 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.id: input-city
+2024-10-20 07:26:13 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.id: input-postcode
+2024-10-20 07:26:13 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.id: input-postcode
+2024-10-20 07:26:13 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.id: input-country
+2024-10-20 07:26:13 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.id: input-country
+2024-10-20 07:26:13 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.id: input-country
+2024-10-20 07:26:13 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.id: input-country
+2024-10-20 07:26:13 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.id: input-country
+2024-10-20 07:26:13 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.id: input-country
+2024-10-20 07:26:13 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.id: input-country
+2024-10-20 07:26:13 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.id: input-country
+2024-10-20 07:26:13 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.xpath: .//option[normalize-space(.) = "American Samoa"]
+2024-10-20 07:26:13 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.xpath: .//option[normalize-space(.) = "American Samoa"]
+2024-10-20 07:26:13 INFO  TestBase:99 - <<<<<before clicking an element>>>>>
+2024-10-20 07:26:13 INFO  TestBase:105 - <<<<<after clicking an element>>>>>
+2024-10-20 07:26:13 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.id: input-zone
+2024-10-20 07:26:13 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.id: input-zone
+2024-10-20 07:26:13 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.id: input-zone
+2024-10-20 07:26:13 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.id: input-zone
+2024-10-20 07:26:13 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.id: input-zone
+2024-10-20 07:26:13 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.id: input-zone
+2024-10-20 07:26:13 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.id: input-zone
+2024-10-20 07:26:13 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.id: input-zone
+2024-10-20 07:26:13 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.xpath: .//option[normalize-space(.) = "Rose Island"]
+2024-10-20 07:26:13 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.xpath: .//option[normalize-space(.) = "Rose Island"]
+2024-10-20 07:26:13 INFO  TestBase:99 - <<<<<before clicking an element>>>>>
+2024-10-20 07:26:13 INFO  TestBase:105 - <<<<<after clicking an element>>>>>
+2024-10-20 07:26:13 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.xpath: //input[@value='Continue']
+2024-10-20 07:26:13 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.xpath: //input[@value='Continue']
+2024-10-20 07:26:14 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.cssSelector: div.alert
+2024-10-20 07:26:14 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.cssSelector: div.alert
+2024-10-20 07:26:14 INFO  TestBase:165 - <<<<<before getting an text>>>>>[[ChromeDriver: chrome on windows (8a9a2d469e22a03931ca11cc4e5e2ead)] -> css selector: div.alert]
+2024-10-20 07:26:14 INFO  TestBase:171 - <<<<<after getting an text>>>>>[[ChromeDriver: chrome on windows (8a9a2d469e22a03931ca11cc4e5e2ead)] -> css selector: div.alert]
+2024-10-20 07:26:14 INFO  TestBase:19 - Test success: ValidateAddressBookNewAddress
+2024-10-20 07:26:16 INFO  TestBase:39 - <<<<<Navigating to an url>>>>>https://naveenautomationlabs.com/opencart/index.php?route=account/login
+2024-10-20 07:26:18 INFO  TestBase:45 - <<<<<Navigated an url>>>>>https://naveenautomationlabs.com/opencart/index.php?route=account/login
+2024-10-20 07:26:18 INFO  TestBase:14 - Test started: ValidateDefaultAddressBookDelete
+2024-10-20 07:26:18 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.id: input-email
+2024-10-20 07:26:19 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.id: input-email
+2024-10-20 07:26:19 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.id: input-password
+2024-10-20 07:26:19 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.id: input-password
+2024-10-20 07:26:19 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.xpath: //input[@type='submit']
+2024-10-20 07:26:19 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.xpath: //input[@type='submit']
+2024-10-20 07:26:19 INFO  TestBase:99 - <<<<<before clicking an element>>>>>
+2024-10-20 07:26:20 INFO  TestBase:105 - <<<<<after clicking an element>>>>>
+2024-10-20 07:26:20 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.cssSelector: div.col-sm-9 h2:first-of-type
+2024-10-20 07:26:20 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.cssSelector: div.col-sm-9 h2:first-of-type
+2024-10-20 07:26:20 INFO  TestBase:165 - <<<<<before getting an text>>>>>[[ChromeDriver: chrome on windows (58fc068cce80a5c50349bb495ade4389)] -> css selector: div.col-sm-9 h2:first-of-type]
+2024-10-20 07:26:20 INFO  TestBase:171 - <<<<<after getting an text>>>>>[[ChromeDriver: chrome on windows (58fc068cce80a5c50349bb495ade4389)] -> css selector: div.col-sm-9 h2:first-of-type]
+2024-10-20 07:26:20 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.cssSelector: div.list-group a:nth-of-type(4)
+2024-10-20 07:26:20 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.cssSelector: div.list-group a:nth-of-type(4)
+2024-10-20 07:26:20 INFO  TestBase:99 - <<<<<before clicking an element>>>>>
+2024-10-20 07:26:21 INFO  TestBase:105 - <<<<<after clicking an element>>>>>
+2024-10-20 07:26:21 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.cssSelector: #content tbody tr td:nth-of-type(2) a:last-of-type
+2024-10-20 07:26:21 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.cssSelector: #content tbody tr td:nth-of-type(2) a:last-of-type
+2024-10-20 07:26:21 INFO  TestBase:99 - <<<<<before clicking an element>>>>>
+2024-10-20 07:26:21 INFO  TestBase:105 - <<<<<after clicking an element>>>>>
+2024-10-20 07:26:21 INFO  TestBase:15 - <<<<<Accepting an alert>>>>>
+2024-10-20 07:26:21 INFO  TestBase:21 - <<<<<Accepted an alert>>>>>
+2024-10-20 07:26:21 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.cssSelector: div.alert
+2024-10-20 07:26:21 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.cssSelector: div.alert
+2024-10-20 07:26:21 INFO  TestBase:165 - <<<<<before getting an text>>>>>[[ChromeDriver: chrome on windows (58fc068cce80a5c50349bb495ade4389)] -> css selector: div.alert]
+2024-10-20 07:26:21 INFO  TestBase:171 - <<<<<after getting an text>>>>>[[ChromeDriver: chrome on windows (58fc068cce80a5c50349bb495ade4389)] -> css selector: div.alert]
+2024-10-20 07:26:21 INFO  TestBase:19 - Test success: ValidateDefaultAddressBookDelete
+2024-10-20 07:26:23 INFO  TestBase:39 - <<<<<Navigating to an url>>>>>https://naveenautomationlabs.com/opencart/index.php?route=account/login
+2024-10-20 07:26:24 INFO  TestBase:45 - <<<<<Navigated an url>>>>>https://naveenautomationlabs.com/opencart/index.php?route=account/login
+2024-10-20 07:26:24 INFO  TestBase:14 - Test started: ValidateEditAddressBookDelete
+2024-10-20 07:26:24 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.id: input-email
+2024-10-20 07:26:25 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.id: input-email
+2024-10-20 07:26:25 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.id: input-password
+2024-10-20 07:26:25 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.id: input-password
+2024-10-20 07:26:25 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.xpath: //input[@type='submit']
+2024-10-20 07:26:25 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.xpath: //input[@type='submit']
+2024-10-20 07:26:25 INFO  TestBase:99 - <<<<<before clicking an element>>>>>
+2024-10-20 07:26:26 INFO  TestBase:105 - <<<<<after clicking an element>>>>>
+2024-10-20 07:26:26 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.cssSelector: div.col-sm-9 h2:first-of-type
+2024-10-20 07:26:26 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.cssSelector: div.col-sm-9 h2:first-of-type
+2024-10-20 07:26:26 INFO  TestBase:165 - <<<<<before getting an text>>>>>[[ChromeDriver: chrome on windows (fde22575be1b448671c4abfdf9d66607)] -> css selector: div.col-sm-9 h2:first-of-type]
+2024-10-20 07:26:26 INFO  TestBase:171 - <<<<<after getting an text>>>>>[[ChromeDriver: chrome on windows (fde22575be1b448671c4abfdf9d66607)] -> css selector: div.col-sm-9 h2:first-of-type]
+2024-10-20 07:26:26 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.cssSelector: div.list-group a:nth-of-type(4)
+2024-10-20 07:26:26 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.cssSelector: div.list-group a:nth-of-type(4)
+2024-10-20 07:26:26 INFO  TestBase:99 - <<<<<before clicking an element>>>>>
+2024-10-20 07:26:27 INFO  TestBase:105 - <<<<<after clicking an element>>>>>
+2024-10-20 07:26:27 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.cssSelector: tbody tr:last-of-type td.text-right:nth-of-type(2) a:first-of-type
+2024-10-20 07:26:27 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.cssSelector: tbody tr:last-of-type td.text-right:nth-of-type(2) a:first-of-type
+2024-10-20 07:26:27 INFO  TestBase:99 - <<<<<before clicking an element>>>>>
+2024-10-20 07:26:28 INFO  TestBase:105 - <<<<<after clicking an element>>>>>
+2024-10-20 07:26:28 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.id: input-firstname
+2024-10-20 07:26:28 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.id: input-firstname
+2024-10-20 07:26:28 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.id: input-firstname
+2024-10-20 07:26:28 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.id: input-firstname
+2024-10-20 07:26:28 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.id: input-country
+2024-10-20 07:26:28 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.id: input-country
+2024-10-20 07:26:28 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.id: input-country
+2024-10-20 07:26:28 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.id: input-country
+2024-10-20 07:26:28 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.id: input-country
+2024-10-20 07:26:28 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.id: input-country
+2024-10-20 07:26:28 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.id: input-country
+2024-10-20 07:26:28 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.id: input-country
+2024-10-20 07:26:28 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.xpath: .//option[normalize-space(.) = "American Samoa"]
+2024-10-20 07:26:28 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.xpath: .//option[normalize-space(.) = "American Samoa"]
+2024-10-20 07:26:28 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.id: input-zone
+2024-10-20 07:26:28 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.id: input-zone
+2024-10-20 07:26:28 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.id: input-zone
+2024-10-20 07:26:28 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.id: input-zone
+2024-10-20 07:26:28 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.id: input-zone
+2024-10-20 07:26:28 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.id: input-zone
+2024-10-20 07:26:28 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.id: input-zone
+2024-10-20 07:26:28 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.id: input-zone
+2024-10-20 07:26:28 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.xpath: .//option[normalize-space(.) = "Rose Island"]
+2024-10-20 07:26:28 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.xpath: .//option[normalize-space(.) = "Rose Island"]
+2024-10-20 07:26:28 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.xpath: //input[@value='Continue']
+2024-10-20 07:26:28 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.xpath: //input[@value='Continue']
+2024-10-20 07:26:29 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.cssSelector: div.alert
+2024-10-20 07:26:29 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.cssSelector: div.alert
+2024-10-20 07:26:29 INFO  TestBase:165 - <<<<<before getting an text>>>>>[[ChromeDriver: chrome on windows (fde22575be1b448671c4abfdf9d66607)] -> css selector: div.alert]
+2024-10-20 07:26:29 INFO  TestBase:171 - <<<<<after getting an text>>>>>[[ChromeDriver: chrome on windows (fde22575be1b448671c4abfdf9d66607)] -> css selector: div.alert]
+2024-10-20 07:26:29 INFO  TestBase:19 - Test success: ValidateEditAddressBookDelete
+2024-10-20 07:26:31 INFO  TestBase:39 - <<<<<Navigating to an url>>>>>https://naveenautomationlabs.com/opencart/index.php?route=account/login
+2024-10-20 07:26:33 INFO  TestBase:45 - <<<<<Navigated an url>>>>>https://naveenautomationlabs.com/opencart/index.php?route=account/login
+2024-10-20 07:26:33 INFO  TestBase:14 - Test started: EditAccount
+2024-10-20 07:26:33 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.id: input-email
+2024-10-20 07:26:33 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.id: input-email
+2024-10-20 07:26:33 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.id: input-password
+2024-10-20 07:26:33 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.id: input-password
+2024-10-20 07:26:33 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.xpath: //input[@type='submit']
+2024-10-20 07:26:33 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.xpath: //input[@type='submit']
+2024-10-20 07:26:33 INFO  TestBase:99 - <<<<<before clicking an element>>>>>
+2024-10-20 07:26:34 INFO  TestBase:105 - <<<<<after clicking an element>>>>>
+2024-10-20 07:26:34 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.cssSelector: div.col-sm-9 h2:first-of-type
+2024-10-20 07:26:34 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.cssSelector: div.col-sm-9 h2:first-of-type
+2024-10-20 07:26:34 INFO  TestBase:165 - <<<<<before getting an text>>>>>[[ChromeDriver: chrome on windows (712903c086cfa4dc7c713afd62cfe083)] -> css selector: div.col-sm-9 h2:first-of-type]
+2024-10-20 07:26:34 INFO  TestBase:171 - <<<<<after getting an text>>>>>[[ChromeDriver: chrome on windows (712903c086cfa4dc7c713afd62cfe083)] -> css selector: div.col-sm-9 h2:first-of-type]
+2024-10-20 07:26:34 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.cssSelector: div.list-group a:nth-of-type(2)
+2024-10-20 07:26:34 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.cssSelector: div.list-group a:nth-of-type(2)
+2024-10-20 07:26:34 INFO  TestBase:99 - <<<<<before clicking an element>>>>>
+2024-10-20 07:26:35 INFO  TestBase:105 - <<<<<after clicking an element>>>>>
+2024-10-20 07:26:35 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.xpath: //input[@name='firstname']
+2024-10-20 07:26:35 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.xpath: //input[@name='firstname']
+2024-10-20 07:26:35 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.xpath: //input[@name='firstname']
+2024-10-20 07:26:35 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.xpath: //input[@name='firstname']
+2024-10-20 07:26:35 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.xpath: //input[@value='Continue']
+2024-10-20 07:26:35 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.xpath: //input[@value='Continue']
+2024-10-20 07:26:35 INFO  TestBase:99 - <<<<<before clicking an element>>>>>
+2024-10-20 07:26:36 INFO  TestBase:105 - <<<<<after clicking an element>>>>>
+2024-10-20 07:26:36 INFO  TestBase:87 - <<<<<before finding an element>>>>>By.cssSelector: div.alert
+2024-10-20 07:26:36 INFO  TestBase:93 - <<<<<after finding an element>>>>>By.cssSelector: div.alert
+2024-10-20 07:26:36 INFO  TestBase:165 - <<<<<before getting an text>>>>>[[ChromeDriver: chrome on windows (712903c086cfa4dc7c713afd62cfe083)] -> css selector: div.alert]
+2024-10-20 07:26:36 INFO  TestBase:171 - <<<<<after getting an text>>>>>[[ChromeDriver: chrome on windows (712903c086cfa4dc7c713afd62cfe083)] -> css selector: div.alert]
+2024-10-20 07:26:36 INFO  TestBase:19 - Test success: EditAccount

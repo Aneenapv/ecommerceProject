@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results retried="1" ignored="0" total="15" passed="13" failed="1" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-10-20T07:25:03 EDT" name="Suite" finished-at="2024-10-20T07:26:36 EDT" duration-ms="93011">
+    <groups>
+    </groups>
+    <test started-at="2024-10-20T07:25:03 EDT" name="Test" finished-at="2024-10-20T07:26:36 EDT" duration-ms="93011">
+      <class name="com.naveenlabsJenkinsJob.PageTests.ForgotYourPasswordPageTest">
+        <test-method is-config="true" signature="setUpLogger()[pri:0, instance:com.naveenlabsJenkinsJob.PageTests.ForgotYourPasswordPageTest@57a78e3]" started-at="2024-10-20T07:25:53 EDT" name="setUpLogger" finished-at="2024-10-20T07:25:53 EDT" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpLogger -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.naveenlabsJenkinsJob.PageTests.ForgotYourPasswordPageTest@57a78e3]" started-at="2024-10-20T07:25:53 EDT" name="setup" finished-at="2024-10-20T07:25:57 EDT" duration-ms="3413" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="ForgotPasswordFunctionalityWithInvalidEmail()[pri:0, instance:com.naveenlabsJenkinsJob.PageTests.ForgotYourPasswordPageTest@57a78e3]" started-at="2024-10-20T07:25:57 EDT" name="ForgotPasswordFunctionalityWithInvalidEmail" finished-at="2024-10-20T07:25:58 EDT" duration-ms="1262" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ForgotPasswordFunctionalityWithInvalidEmail -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.naveenlabsJenkinsJob.PageTests.ForgotYourPasswordPageTest@57a78e3]" started-at="2024-10-20T07:25:58 EDT" name="closeBrowser" finished-at="2024-10-20T07:25:58 EDT" duration-ms="241" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.naveenlabsJenkinsJob.PageTests.ForgotYourPasswordPageTest -->
+      <class name="com.naveenlabsJenkinsJob.PageTests.MyAccountPageTest">
+        <test-method is-config="true" signature="setUpLogger()[pri:0, instance:com.naveenlabsJenkinsJob.PageTests.MyAccountPageTest@6fa51cd4]" started-at="2024-10-20T07:26:29 EDT" name="setUpLogger" finished-at="2024-10-20T07:26:29 EDT" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpLogger -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.naveenlabsJenkinsJob.PageTests.MyAccountPageTest@6fa51cd4]" started-at="2024-10-20T07:26:29 EDT" name="setup" finished-at="2024-10-20T07:26:33 EDT" duration-ms="3417" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="EditAccount()[pri:0, instance:com.naveenlabsJenkinsJob.PageTests.MyAccountPageTest@6fa51cd4]" started-at="2024-10-20T07:26:33 EDT" name="EditAccount" finished-at="2024-10-20T07:26:36 EDT" duration-ms="3381" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EditAccount -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.naveenlabsJenkinsJob.PageTests.MyAccountPageTest@6fa51cd4]" started-at="2024-10-20T07:26:36 EDT" name="closeBrowser" finished-at="2024-10-20T07:26:36 EDT" duration-ms="228" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.naveenlabsJenkinsJob.PageTests.MyAccountPageTest -->
+      <class name="com.naveenlabsJenkinsJob.PageTests.AccountLoginPageTest">
+        <test-method is-config="true" signature="setUpLogger()[pri:0, instance:com.naveenlabsJenkinsJob.PageTests.AccountLoginPageTest@16eb3ea3]" started-at="2024-10-20T07:25:04 EDT" name="setUpLogger" finished-at="2024-10-20T07:25:04 EDT" duration-ms="57" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpLogger -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.naveenlabsJenkinsJob.PageTests.AccountLoginPageTest@16eb3ea3]" started-at="2024-10-20T07:25:04 EDT" name="setup" finished-at="2024-10-20T07:25:09 EDT" duration-ms="5405" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="ForgotPasswordFunctionality()[pri:0, instance:com.naveenlabsJenkinsJob.PageTests.AccountLoginPageTest@16eb3ea3]" started-at="2024-10-20T07:25:09 EDT" name="ForgotPasswordFunctionality" finished-at="2024-10-20T07:25:11 EDT" duration-ms="2102" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ForgotPasswordFunctionality -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.naveenlabsJenkinsJob.PageTests.AccountLoginPageTest@16eb3ea3]" started-at="2024-10-20T07:25:11 EDT" name="closeBrowser" finished-at="2024-10-20T07:25:12 EDT" duration-ms="252" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.naveenlabsJenkinsJob.PageTests.AccountLoginPageTest@16eb3ea3]" started-at="2024-10-20T07:25:12 EDT" name="setup" finished-at="2024-10-20T07:25:16 EDT" duration-ms="3933" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method retried="true" signature="LoginWithInvalidCredentials()[pri:0, instance:com.naveenlabsJenkinsJob.PageTests.AccountLoginPageTest@16eb3ea3]" started-at="2024-10-20T07:25:16 EDT" name="LoginWithInvalidCredentials" finished-at="2024-10-20T07:25:17 EDT" duration-ms="991" status="SKIP">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [Warning: Your account has exceeded allowed number of login attempts. Please try again in 1 hour.] but found [Warning: No match for E-Mail Address and/or Password.]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [Warning: Your account has exceeded allowed number of login attempts. Please try again in 1 hour.] but found [Warning: No match for E-Mail Address and/or Password.]
+at org.testng.Assert.fail(Assert.java:110)
+at org.testng.Assert.failNotEquals(Assert.java:1413)
+at org.testng.Assert.assertEqualsImpl(Assert.java:149)
+at org.testng.Assert.assertEquals(Assert.java:131)
+at org.testng.Assert.assertEquals(Assert.java:655)
+at org.testng.Assert.assertEquals(Assert.java:665)
+at com.naveenlabsJenkinsJob.PageTests.AccountLoginPageTest.LoginWithInvalidCredentials(AccountLoginPageTest.java:72)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:135)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:673)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:220)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:945)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:193)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:808)
+at org.testng.TestRunner.run(TestRunner.java:603)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:429)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:423)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:383)
+at org.testng.SuiteRunner.run(SuiteRunner.java:326)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1249)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+at org.testng.TestNG.runSuites(TestNG.java:1092)
+at org.testng.TestNG.run(TestNG.java:1060)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginWithInvalidCredentials -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.naveenlabsJenkinsJob.PageTests.AccountLoginPageTest@16eb3ea3]" started-at="2024-10-20T07:25:17 EDT" name="closeBrowser" finished-at="2024-10-20T07:25:17 EDT" duration-ms="204" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.naveenlabsJenkinsJob.PageTests.AccountLoginPageTest@16eb3ea3]" started-at="2024-10-20T07:25:17 EDT" name="setup" finished-at="2024-10-20T07:25:21 EDT" duration-ms="3840" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="LoginWithInvalidCredentials()[pri:0, instance:com.naveenlabsJenkinsJob.PageTests.AccountLoginPageTest@16eb3ea3]" started-at="2024-10-20T07:25:21 EDT" name="LoginWithInvalidCredentials" finished-at="2024-10-20T07:25:22 EDT" duration-ms="960" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [Warning: Your account has exceeded allowed number of login attempts. Please try again in 1 hour.] but found [Warning: No match for E-Mail Address and/or Password.]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [Warning: Your account has exceeded allowed number of login attempts. Please try again in 1 hour.] but found [Warning: No match for E-Mail Address and/or Password.]
+at org.testng.Assert.fail(Assert.java:110)
+at org.testng.Assert.failNotEquals(Assert.java:1413)
+at org.testng.Assert.assertEqualsImpl(Assert.java:149)
+at org.testng.Assert.assertEquals(Assert.java:131)
+at org.testng.Assert.assertEquals(Assert.java:655)
+at org.testng.Assert.assertEquals(Assert.java:665)
+at com.naveenlabsJenkinsJob.PageTests.AccountLoginPageTest.LoginWithInvalidCredentials(AccountLoginPageTest.java:72)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:135)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:673)
+at org.testng.internal.invokers.TestInvoker.retryFailed(TestInvoker.java:262)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:62)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:945)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:193)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:808)
+at org.testng.TestRunner.run(TestRunner.java:603)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:429)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:423)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:383)
+at org.testng.SuiteRunner.run(SuiteRunner.java:326)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1249)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+at org.testng.TestNG.runSuites(TestNG.java:1092)
+at org.testng.TestNG.run(TestNG.java:1060)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginWithInvalidCredentials -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.naveenlabsJenkinsJob.PageTests.AccountLoginPageTest@16eb3ea3]" started-at="2024-10-20T07:25:22 EDT" name="closeBrowser" finished-at="2024-10-20T07:25:22 EDT" duration-ms="191" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.naveenlabsJenkinsJob.PageTests.AccountLoginPageTest@16eb3ea3]" started-at="2024-10-20T07:25:22 EDT" name="setup" finished-at="2024-10-20T07:25:26 EDT" duration-ms="3787" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="LoginWithInvalidEmailAndValidPassword()[pri:0, instance:com.naveenlabsJenkinsJob.PageTests.AccountLoginPageTest@16eb3ea3]" started-at="2024-10-20T07:25:26 EDT" name="LoginWithInvalidEmailAndValidPassword" finished-at="2024-10-20T07:25:27 EDT" duration-ms="859" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginWithInvalidEmailAndValidPassword -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.naveenlabsJenkinsJob.PageTests.AccountLoginPageTest@16eb3ea3]" started-at="2024-10-20T07:25:27 EDT" name="closeBrowser" finished-at="2024-10-20T07:25:27 EDT" duration-ms="238" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.naveenlabsJenkinsJob.PageTests.AccountLoginPageTest@16eb3ea3]" started-at="2024-10-20T07:25:27 EDT" name="setup" finished-at="2024-10-20T07:25:31 EDT" duration-ms="3972" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="LoginWithValidCredentials()[pri:0, instance:com.naveenlabsJenkinsJob.PageTests.AccountLoginPageTest@16eb3ea3]" started-at="2024-10-20T07:25:31 EDT" name="LoginWithValidCredentials" finished-at="2024-10-20T07:25:32 EDT" duration-ms="1443" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginWithValidCredentials -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.naveenlabsJenkinsJob.PageTests.AccountLoginPageTest@16eb3ea3]" started-at="2024-10-20T07:25:32 EDT" name="closeBrowser" finished-at="2024-10-20T07:25:33 EDT" duration-ms="309" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.naveenlabsJenkinsJob.PageTests.AccountLoginPageTest@16eb3ea3]" started-at="2024-10-20T07:25:34 EDT" name="setup" finished-at="2024-10-20T07:25:38 EDT" duration-ms="4267" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="LoginWithValidCredentials(java.lang.String,java.lang.String)[pri:0, instance:com.naveenlabsJenkinsJob.PageTests.AccountLoginPageTest@16eb3ea3]" started-at="2024-10-20T07:25:38 EDT" name="LoginWithValidCredentials" data-provider="Book1" finished-at="2024-10-20T07:25:39 EDT" duration-ms="1297" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[example1@email.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[abc123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginWithValidCredentials -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.naveenlabsJenkinsJob.PageTests.AccountLoginPageTest@16eb3ea3]" started-at="2024-10-20T07:25:39 EDT" name="closeBrowser" finished-at="2024-10-20T07:25:40 EDT" duration-ms="243" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.naveenlabsJenkinsJob.PageTests.AccountLoginPageTest@16eb3ea3]" started-at="2024-10-20T07:25:40 EDT" name="setup" finished-at="2024-10-20T07:25:43 EDT" duration-ms="3464" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="LoginWithValidCredentials(java.lang.String,java.lang.String)[pri:0, instance:com.naveenlabsJenkinsJob.PageTests.AccountLoginPageTest@16eb3ea3]" started-at="2024-10-20T07:25:43 EDT" name="LoginWithValidCredentials" data-provider="Book1" finished-at="2024-10-20T07:25:44 EDT" duration-ms="1093" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mail@domain.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[abc123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginWithValidCredentials -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.naveenlabsJenkinsJob.PageTests.AccountLoginPageTest@16eb3ea3]" started-at="2024-10-20T07:25:44 EDT" name="closeBrowser" finished-at="2024-10-20T07:25:44 EDT" duration-ms="194" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.naveenlabsJenkinsJob.PageTests.AccountLoginPageTest@16eb3ea3]" started-at="2024-10-20T07:25:44 EDT" name="setup" finished-at="2024-10-20T07:25:48 EDT" duration-ms="3272" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="LoginWithValidCredentials(java.lang.String,java.lang.String)[pri:0, instance:com.naveenlabsJenkinsJob.PageTests.AccountLoginPageTest@16eb3ea3]" started-at="2024-10-20T07:25:48 EDT" name="LoginWithValidCredentials" data-provider="Book1" finished-at="2024-10-20T07:25:49 EDT" duration-ms="835" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[arshka@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Pass123.]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginWithValidCredentials -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.naveenlabsJenkinsJob.PageTests.AccountLoginPageTest@16eb3ea3]" started-at="2024-10-20T07:25:49 EDT" name="closeBrowser" finished-at="2024-10-20T07:25:49 EDT" duration-ms="258" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.naveenlabsJenkinsJob.PageTests.AccountLoginPageTest@16eb3ea3]" started-at="2024-10-20T07:25:49 EDT" name="setup" finished-at="2024-10-20T07:25:52 EDT" duration-ms="3400" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="LoginWithValidEmailAndInvalidPassword()[pri:0, instance:com.naveenlabsJenkinsJob.PageTests.AccountLoginPageTest@16eb3ea3]" started-at="2024-10-20T07:25:52 EDT" name="LoginWithValidEmailAndInvalidPassword" finished-at="2024-10-20T07:25:53 EDT" duration-ms="906" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginWithValidEmailAndInvalidPassword -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.naveenlabsJenkinsJob.PageTests.AccountLoginPageTest@16eb3ea3]" started-at="2024-10-20T07:25:53 EDT" name="closeBrowser" finished-at="2024-10-20T07:25:53 EDT" duration-ms="251" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.naveenlabsJenkinsJob.PageTests.AccountLoginPageTest -->
+      <class name="com.naveenlabsJenkinsJob.PageTests.AddressBookPageTest">
+        <test-method is-config="true" signature="setUpLogger()[pri:0, instance:com.naveenlabsJenkinsJob.PageTests.AddressBookPageTest@402c4085]" started-at="2024-10-20T07:25:58 EDT" name="setUpLogger" finished-at="2024-10-20T07:25:58 EDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpLogger -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.naveenlabsJenkinsJob.PageTests.AddressBookPageTest@402c4085]" started-at="2024-10-20T07:25:58 EDT" name="setup" finished-at="2024-10-20T07:26:02 EDT" duration-ms="3730" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="ValidateAddedAddressBookDelete()[pri:0, instance:com.naveenlabsJenkinsJob.PageTests.AddressBookPageTest@402c4085]" started-at="2024-10-20T07:26:02 EDT" name="ValidateAddedAddressBookDelete" finished-at="2024-10-20T07:26:05 EDT" duration-ms="3001" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateAddedAddressBookDelete -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.naveenlabsJenkinsJob.PageTests.AddressBookPageTest@402c4085]" started-at="2024-10-20T07:26:05 EDT" name="closeBrowser" finished-at="2024-10-20T07:26:05 EDT" duration-ms="257" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.naveenlabsJenkinsJob.PageTests.AddressBookPageTest@402c4085]" started-at="2024-10-20T07:26:05 EDT" name="setup" finished-at="2024-10-20T07:26:09 EDT" duration-ms="3791" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="ValidateAddressBookNewAddress()[pri:0, instance:com.naveenlabsJenkinsJob.PageTests.AddressBookPageTest@402c4085]" started-at="2024-10-20T07:26:09 EDT" name="ValidateAddressBookNewAddress" finished-at="2024-10-20T07:26:14 EDT" duration-ms="5232" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateAddressBookNewAddress -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.naveenlabsJenkinsJob.PageTests.AddressBookPageTest@402c4085]" started-at="2024-10-20T07:26:14 EDT" name="closeBrowser" finished-at="2024-10-20T07:26:15 EDT" duration-ms="258" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.naveenlabsJenkinsJob.PageTests.AddressBookPageTest@402c4085]" started-at="2024-10-20T07:26:15 EDT" name="setup" finished-at="2024-10-20T07:26:18 EDT" duration-ms="3929" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="ValidateDefaultAddressBookDelete()[pri:0, instance:com.naveenlabsJenkinsJob.PageTests.AddressBookPageTest@402c4085]" started-at="2024-10-20T07:26:18 EDT" name="ValidateDefaultAddressBookDelete" finished-at="2024-10-20T07:26:21 EDT" duration-ms="2738" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateDefaultAddressBookDelete -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.naveenlabsJenkinsJob.PageTests.AddressBookPageTest@402c4085]" started-at="2024-10-20T07:26:21 EDT" name="closeBrowser" finished-at="2024-10-20T07:26:21 EDT" duration-ms="255" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.naveenlabsJenkinsJob.PageTests.AddressBookPageTest@402c4085]" started-at="2024-10-20T07:26:21 EDT" name="setup" finished-at="2024-10-20T07:26:24 EDT" duration-ms="2126" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="ValidateEditAddressBookDelete()[pri:0, instance:com.naveenlabsJenkinsJob.PageTests.AddressBookPageTest@402c4085]" started-at="2024-10-20T07:26:24 EDT" name="ValidateEditAddressBookDelete" finished-at="2024-10-20T07:26:29 EDT" duration-ms="5615" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateEditAddressBookDelete -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.naveenlabsJenkinsJob.PageTests.AddressBookPageTest@402c4085]" started-at="2024-10-20T07:26:29 EDT" name="closeBrowser" finished-at="2024-10-20T07:26:29 EDT" duration-ms="222" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.naveenlabsJenkinsJob.PageTests.AddressBookPageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
