@@ -1,76 +1,75 @@
 package ecommerceProject;
 
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.HashMap;
+import java.util.List;
 
-public class Customer extends User implements Payment, Rewardable, DirectDeposit, Investment {
+public class Customer extends User implements Payment, Rewardable, DirectDeposit, InvestmentDeposit{
 
 	private double balance;
 
-	private int rewardPoints;
-
-	// double deduct;
-
-	int points;
+	int pointsAdded;
+	int totalPoints = 0;
 
 	double salary;
-	
+
 	double investment;
-	
-	double fhsa;
-	
-	double rrsp;
-	
+
 	double balanceAfterInvestment;
+
+	//ArrayList arrayListOfAccountType = new ArrayList();
 	
-	ArrayList<Double> aList = new ArrayList<>();
+	HashMap<AccountType,Double> mapAccountType = new HashMap<AccountType,Double>();
 	
-	HashMap<String,Double> hmap = new HashMap<String,Double>();
 
 	public Customer(String name, String companyName) {
-		super(name,companyName);
-		
+		super(name, companyName);
 
 	}
 
 	public Customer(String name, double balance, String companyName) {
-		super(name,companyName);
+		super(name, companyName);
 		this.balance = balance;
 	}
 
 	public void displayUserDetails() {
 		System.out.println("user name : " + getName());
 		System.out.println("balance   : " + balance);
-		System.out.println("reward points : " + rewardPoints);
-		System.out.println("Company name: " +getCompanyName());
+		System.out.println("Total reward points : " + totalPoints);
+		System.out.println("Company name: " + getCompanyName());
 		System.out.println("salary credited :" + salary);
-		System.out.println("Amount deposited in fhsa: "+fhsa);
-		System.out.println("Amount deposited in rrsp: "+rrsp);
-		System.out.println("Total Investment: "+investment);
-		System.out.println("Final Balance after investments: "+ balanceAfterInvestment);
-		System.out.println("List of investments: "+aList);   //using arraylist 
-		System.out.println("List of investments and thier type: "+hmap);         // using hashmap
+		
+		//System.out.println("from arrayList of account type: "+arrayListOfAccountType);
+		
+		System.out.println("Amount deposited in investment accounts:"+mapAccountType);
+		//System.out.println("Amount deposited in fhsa: " + fhsa);
+		System.out.println("Total Investment: " + investment);
+		System.out.println("Final Balance after investments: " + balanceAfterInvestment);
+	
 		System.out.println("__________________");
 	}
 
 	@Override
-	public void processPayment(double amount) {
+	public Customer processPayment(double amount) {
 		if (balance > amount) {
 			balance = balance - amount;
 
-			points = (int) (amount / 10);
+			pointsAdded = (int) (amount / 10);
 
-			rewardPoints = points;
 		} else {
 			System.out.println("Insufficient amount. Please keep your account in good status");
+
 		}
+		return this;
 
 	}
 
 	@Override
-	public void addRewardPoints(int points) {
+	public Customer addRewardPoints() {
 
-		System.out.println("points added: " + points);
+		totalPoints = totalPoints + pointsAdded;
+		return this;
 
 	}
 
@@ -88,47 +87,79 @@ public class Customer extends User implements Payment, Rewardable, DirectDeposit
 
 	@Override
 	public void salary(double sal) {
-        this.salary = sal;
+		this.salary = sal;
 		balance = sal + balance;
 
 	}
 
+	
 	@Override
 	public void fhsa(double fhsaDeposit) {
-		if(salary>fhsaDeposit)
-		{
-		this.fhsa=fhsaDeposit;
-		investment = investment + fhsaDeposit;
-		balanceAfterInvestment = balance - investment;
-		aList.add(fhsa);
-		hmap.put("FHSA",fhsa);
+
+		if ((salary > fhsaDeposit) && (fhsaDeposit > 0)) {
+			//this.fhsa = fhsaDeposit;
+			//arrayListOfAccountType.add(fhsa);
+			mapAccountType.put(AccountType.FHSA,fhsaDeposit);
+			investment = investment + fhsaDeposit;
+			balanceAfterInvestment = balance - investment;
+			
+		} else {
+			System.out.println("Not sufficient fund to invest in fhsa");
 		}
-		else
-		{
-			System.out.println("Not sufficient fund to invest");
-		}
+
 	}
 
 	@Override
 	public void tfsa(double tfsaDeposit) {
-	
+		
+		if ((salary > tfsaDeposit) && (tfsaDeposit > 0)) {
+			//arrayListOfAccountType.add(tfsa);
+			mapAccountType.put(AccountType.TFSA,tfsaDeposit);
+			investment = investment + tfsaDeposit;
+			balanceAfterInvestment = balance - investment;
+			
+		} else {
+			System.out.println("Not sufficient fund to invest in tfsa");
+		}
 		
 	}
 
 	@Override
 	public void rrsp(double rrspDeposit) {
-		this.rrsp = rrspDeposit;
-		investment = investment + rrspDeposit;
-		balanceAfterInvestment = balance - investment;
-		aList.add(rrsp);
-		hmap.put("RRSP",rrsp);
+		if ((salary > rrspDeposit) && (rrspDeposit > 0)) {
+			//arrayListOfAccountType.add(rrsp);
+			mapAccountType.put(AccountType.RRSP,rrspDeposit);
+			investment = investment + rrspDeposit;
+			balanceAfterInvestment = balance - investment;
+			
+		} else {
+			System.out.println("Not sufficient fund to invest in rrsp");
+		}
 		
 	}
 
 	@Override
 	public void resp(double respDeposit) {
-	
+		if ((salary > respDeposit) && (respDeposit > 0)) {
+			//arrayListOfAccountType.add(resp);
+			mapAccountType.put(AccountType.RESP,respDeposit);
+			investment = investment + respDeposit;
+			balanceAfterInvestment = balance - investment;
+			
+		} else {
+			System.out.println("Not sufficient fund to invest in resp");
+		}
 		
 	}
+	
+	
+	
+	
 
+   
 }
+
+	
+
+	
+	

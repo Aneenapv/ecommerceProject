@@ -2,6 +2,6 @@ package ecommerceProject;
 
 public interface Payment {
 	
-	void processPayment(double amount);
+	Customer processPayment(double amount);
 
 }

@@ -1,42 +1,88 @@
 package ecommerceProject;
 
+
+import java.util.HashMap;
+
+
 public class Main {
 
 	public static void main(String[] args) {
+		
+		//HashMap<String,Double> mapAccountType = new HashMap<String,Double>();
+		
 
 		User.showPlatformName();
 
-		Customer c1 = new Customer("Alice","PivotTesting");
+		Customer alice = new Customer("Alice","PivotTesting");
 
-		Customer c2 = new Customer("Bob", 150.0,"LuminarTechnolab");
+		Customer bob = new Customer("Bob", 150.0,"LuminarTechnolab");
 		
 		
 
-		c1.greet();
-		c2.greet();
+		alice.greet();
+		bob.greet();
+		System.out.println("=======================");
+
+		alice.displayUserDetails();
+		bob.displayUserDetails();
 		
 
-		c1.displayUserDetails();
-		c2.displayUserDetails();
+		alice.recharge(100).processPayment(45).addRewardPoints(); // in method chaining return type should be objects
 		
-
-		c1.recharge(100).processPayment(45); // in method chaining return type should be objects
+		bob.recharge(100).processPayment(30).addRewardPoints(); 
 		
-		c1.salary(500);
-		c2.salary(1000);
+		alice.salary(500);
+		bob.salary(1000);
 
-		c2.processPayment(200);
+		bob.processPayment(200);
 		
-		c1.fhsa(200);
-		c1.rrsp(300);
-
-		c2.fhsa(100);
-		c2.rrsp(100);
+		//alice.fhsa(200);
+		
+		//AccountType type = AccountType.FHSA;
+		//System.out.println(type);
+		
+		for(AccountType typeOfAccount: AccountType.values())
+		{
+			if(typeOfAccount==AccountType.FHSA)
+			{
+			alice.fhsa(200);
+			bob.fhsa(100);
+			}
+			
+			if(typeOfAccount==AccountType.TFSA)
+			{
+			alice.tfsa(100);
+			bob.tfsa(100);
+			}
+			
+			if(typeOfAccount==AccountType.RRSP)
+			{
+			alice.rrsp(50);
+			bob.rrsp(50);
+			}
+			
+			if(typeOfAccount==AccountType.RESP)
+			{
+			alice.resp(20);
+			bob.resp(20);
+			}
+			//System.out.println(typeOfAccount+" : "+typeOfAccount.getDescription());
+		}
+		
+		//alice.processAccount(AccountType.FHSA).fhsa(200);
+		
+		
 		
 		System.out.println("===================");
 
-		c1.displayUserDetails();
-		c2.displayUserDetails();
+		alice.displayUserDetails();
+		bob.displayUserDetails();
+		
+		
+		
+
+
+		    
 		
 		
 		
